@@ -1,0 +1,71 @@
+EXPENSO AI WEBSITE
+│
+├── Home
+│
+├── Features
+│   ├── Expense Tracking
+│   ├── AI Assistant
+│   ├── SMS Intelligence
+│   ├── Voice Entry
+│   ├── Receipt OCR
+│   ├── Budgets
+│   ├── Goals
+│   ├── Analytics
+│   ├── Financial Health
+│   ├── Credit Cards
+│   ├── Bills
+│   └── Subscriptions
+│
+├── Learn Expenso
+│   ├── Getting Started
+│   ├── Dashboard
+│   ├── Accounts
+│   ├── Transactions
+│   ├── Credit Cards
+│   ├── Budgets
+│   ├── Goals
+│   ├── Analytics
+│   ├── AI Chat
+│   ├── Backup & Restore
+│   └── Settings
+│
+├── Premium
+│   ├── Premium Features
+│   ├── Premium vs Free
+│   ├── Premium FAQ
+│   └── Subscription Help
+│
+├── Help Center
+│   ├── Search
+│   ├── Getting Started
+│   ├── Account Issues
+│   ├── Transaction Issues
+│   ├── SMS Issues
+│   ├── AI Issues
+│   ├── Credit Card Issues
+│   ├── Backup Issues
+│   ├── Premium Issues
+│   └── Troubleshooting
+│
+├── Community
+│   ├── Discussions
+│   ├── Questions
+│   ├── Feature Requests
+│   ├── Bug Reports
+│   ├── Tips & Tricks
+│   └── Announcements
+│
+├── Support
+│   ├── Contact Support
+│   ├── Report a Problem
+│   ├── Submit Feedback
+│   └── Track My Requests
+│
+├── What's New
+│   ├── Release Notes
+│   ├── New Features
+│   └── Improvements
+│
+├── Privacy
+├── Terms
+└── Download
