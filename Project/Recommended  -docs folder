@@ -1,0 +1,82 @@
+docs/
+│
+├── PROJECT_MASTER_SPEC.md
+├── PRODUCT_REQUIREMENTS.md
+├── UI_UX_DESIGN_SYSTEM.md
+├── SITE_MAP.md
+├── USER_FLOWS.md
+├── TECHNICAL_ARCHITECTURE.md
+├── DATABASE_SCHEMA.md
+├── AUTH_SECURITY_PRIVACY.md
+├── HELP_KNOWLEDGE_BASE.md
+├── COMMUNITY_SPECIFICATION.md
+├── SUPPORT_SYSTEM.md
+├── ADMIN_PANEL_SPEC.md
+└── WEBSITE_CONTENT.md
+
+
+And your assets:
+
+assets/
+│
+├── branding/
+│   ├── expenso-logo.png
+│   ├── expenso-icon.png
+│   └── favicon.png
+│
+├── screenshots/
+│   ├── splash-screen.png
+│   ├── dashboard.png
+│   ├── credit-card.png
+│   ├── analytics.png
+│   ├── budgets.png
+│   ├── goals.png
+│   └── ai-chat.png
+│
+├── icons/
+│
+├── videos/
+│
+└── marketing/
+
+
+One important change I recommend
+Don't give an AI coding agent all of these documents and immediately tell it "build everything."
+Use them as a controlled specification:
+STEP 1
+Read all documents.
+Do not modify code.
+Identify contradictions, missing information and implementation risks.
+
+STEP 2
+Create the technical implementation plan.
+
+STEP 3
+Implement the foundation and design system.
+
+STEP 4
+Implement the public website.
+
+STEP 5
+Implement authentication.
+
+STEP 6
+Implement Help Center.
+
+STEP 7
+Implement Support.
+
+STEP 8
+Implement Community.
+
+STEP 9
+Implement Feature Requests and Bug Reports.
+
+STEP 10
+Implement AI Help Assistant.
+
+STEP 11
+Implement Admin Panel.
+
+STEP 12
+Run complete testing and compare the implementation against /docs.
