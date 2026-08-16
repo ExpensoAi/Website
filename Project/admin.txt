@@ -1,0 +1,16 @@
+ADMIN
+│
+├── Dashboard
+├── Users
+├── Support Tickets
+├── Live Chats
+├── Community
+├── Feature Requests
+├── Bug Reports
+├── Knowledge Base
+├── FAQ
+├── Announcements
+├── Release Notes
+├── Premium
+├── Analytics
+└── Settings
